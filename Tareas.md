@@ -37,3 +37,14 @@
 
     Entregue la tarea, un documento .pdf, en Github:
     https://classroom.github.com/a/GVB1dQp9
+
+4. Tarea 4: Filtros de Bloom
+
+    Asignación: 22 de abril
+
+    Entrega: 6 de mayo
+
+    Esta tarea es individual y requiere, además de la implementación de un Bloom Filter que haga diseñe adecuadamente un experimento. Los detalles se encuentran en el documento TareaBloom.pdf.
+
+    Entregue la tarea en la siguiente liga:
+    https://classroom.github.com/a/RQNXHk2K
