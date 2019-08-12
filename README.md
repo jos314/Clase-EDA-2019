@@ -15,3 +15,5 @@ Las tareas se asignarán y entreagarán a través de Github.
 Para lo que vamos a hacer sólo se necesitan los comandos básicos para copiar repositorios y subir información. No es necesario hacer branches, merges, etc....
 Para un primer tutorial vean <https://www.youtube.com/watch?v=SWYqp7iY_Tc>
 Pero hay muchos.
+Una vez que tengan su cuenta de GIT y GitHub registrense a la clase con esta liga (ahi debe aparecer su clave única)
+https://classroom.github.com/a/aUmcscHv
